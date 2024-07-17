@@ -11,6 +11,7 @@ export const Abouthero: FC<galleryabout> = ({ image }) => {
   return (
     <div className="w-full lg:max-w-5xl">
       <Image
+        priority
         className="rounded-lg drop-shadow-xl md:rounded-xl w-full h-auto object-cover"
         width={2000}
         height={1429}

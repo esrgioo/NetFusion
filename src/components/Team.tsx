@@ -38,6 +38,7 @@ export const Team = () => {
       <div className="grid grid-cols-2 gap-8 xl:grid-cols-6">
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}
@@ -53,6 +54,7 @@ export const Team = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}
@@ -68,6 +70,7 @@ export const Team = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}
@@ -83,6 +86,7 @@ export const Team = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}
@@ -98,6 +102,7 @@ export const Team = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}
@@ -113,6 +118,7 @@ export const Team = () => {
         </div>
         <div className="flex flex-col gap-y-2 items-center text-center justify-between">
           <Image
+            priority
             className="max-w-[130px] md:max-w-[175px] rounded-full shadow-lg shadow-slate-700 mb-4 object-cover"
             width={200}
             height={200}

@@ -6,6 +6,7 @@ import Join from "@/components/Join";
 import Make from "@/components/Make";
 import Meet from "@/components/Meet";
 import Opportunities from "@/components/Opportunities";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Join />
       <Make />
       <Growdiscover />
+      <Testimonials />
       <GrowBusiness />
     </main>
   );

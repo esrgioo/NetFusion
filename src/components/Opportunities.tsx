@@ -7,11 +7,11 @@ const Opportunities = () => {
         <h2 className="text-3xl font-semibold">
           Discover New Opportunities from Existing Contacts
         </h2>
-        <span className="text-md lg:text-base text-left font-medium">
+        <span className="text-md lg:text-base text-left font-medium xl:text-2xl">
           Because business networking isn't just about who you know — it's about
           who they know
         </span>
-        <p className="text-md">
+        <p className="text-md xl:text-lg">
           Our technology connects you to your existing contacts, and shows you
           the opportunities their networks can give you. Your next best customer
           could be just one introduction away. Join now to unlock the power of
@@ -20,9 +20,10 @@ const Opportunities = () => {
       </div>
       <div className="p-12 lg:-mt-6 flex justify-center order-first">
         <Image
+          priority
           className="xl:shadow-xl object-cover"
-          width={1000}
-          height={1000}
+          width={500}
+          height={500}
           src="/home-discover.webp"
           alt="Opportunities"
         />

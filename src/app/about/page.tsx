@@ -1,4 +1,4 @@
-import Abouthero from "@/components/abouthero";
+import Abouthero from "@/components/Abouthero";
 import { getEntries } from "@/libs/contentful";
 
 export default async function About() {
