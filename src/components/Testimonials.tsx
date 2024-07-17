@@ -23,9 +23,9 @@ const Testimonials = () => {
               lg:text-left text-slate-800 items-center lg:items-start mt-5"
           >
             <div className="font-medium italic text-[16px]/[130%] md:text-2xl my-">
-              "Alignable's been amazing! It's all about real connections, and
+              "NetFusion's been amazing! It's all about real connections, and
               it's seriously boosted my Growth Agency. I've grown my client
-              base, met incredible people, and truly believe Alignable is the
+              base, met incredible people, and truly believe NetFusion is the
               "Sleeping Giant" every business needs. So thankful for the
               growth!"
             </div>
