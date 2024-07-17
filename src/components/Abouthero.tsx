@@ -12,9 +12,9 @@ export const Abouthero: FC<galleryabout> = ({ image }) => {
     <div className="w-full lg:max-w-5xl">
       <Image
         priority
-        className="rounded-lg drop-shadow-xl md:rounded-xl w-full h-auto object-cover"
-        width={2000}
-        height={1429}
+        className="rounded-lg drop-shadow-2xl md:rounded-xl w-full h-auto object-cover"
+        width={1000}
+        height={1000}
         src={`https:${image}`}
         alt="NetFusion team deeply cares for and empowers business owners to use networking to grow their business"
       />

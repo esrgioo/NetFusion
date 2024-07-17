@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "Discover the top business networking platform with over 9 million members in North America. Connect, build relationships, and drive success on the largest business network.",
   keywords: ["Company Profile", "NetFusion"],
   openGraph: {
-    images: ["/home-globe.png"],
+    images: ["/home-globe.webp"],
   },
 };
 

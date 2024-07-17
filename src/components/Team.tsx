@@ -43,7 +43,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[0]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[0]?.name.first} {teamMembers?.[0]?.name.last}
@@ -59,7 +59,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[1]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[1]?.name.first} {teamMembers?.[1]?.name.last}
@@ -75,7 +75,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[2]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[2]?.name.first} {teamMembers?.[2]?.name.last}
@@ -91,7 +91,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[3]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[3]?.name.first} {teamMembers?.[3]?.name.last}
@@ -107,7 +107,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[4]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[4]?.name.first} {teamMembers?.[4]?.name.last}
@@ -123,7 +123,7 @@ export const Team = () => {
             width={200}
             height={200}
             src={teamMembers?.[5]?.picture.large}
-            alt="teams-picture"
+            alt="Teams"
           />
           <span className="text-lg font-medium text-slate-800">
             {teamMembers?.[5]?.name.first} {teamMembers?.[5]?.name.last}
