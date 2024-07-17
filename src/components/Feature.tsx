@@ -8,6 +8,7 @@ const Feature = () => {
           Featured In
         </span>
         <Image
+          priority
           className="max-w-[175px] md:max-w-[180px] lg:max-w-[233px] xl:max-w-[180px] md:scale-125 xl:mr-14 object-cover"
           width={939}
           height={100}
@@ -15,6 +16,7 @@ const Feature = () => {
           alt="partner-huffpost"
         />
         <Image
+          priority
           className="max-w-[175px] md:max-w-[180px] lg:max-w-[233px] xl:max-w-[180px] md:scale-125 xl:mr-14 object-cover"
           width={939}
           height={100}
@@ -22,6 +24,7 @@ const Feature = () => {
           alt="partner-thewallstreetjournal"
         />
         <Image
+          priority
           className="max-w-[175px] md:max-w-[180px] lg:max-w-[233px] xl:max-w-[180px] md:scale-125 object-cover"
           width={939}
           height={100}
@@ -29,6 +32,7 @@ const Feature = () => {
           alt="partner-techcrunch"
         />
         <Image
+          priority
           className="max-w-[175px] md:max-w-[180px] lg:max-w-[233px] xl:max-w-[180px] md:scale-125 object-cover"
           width={939}
           height={100}
@@ -36,6 +40,7 @@ const Feature = () => {
           alt="partner-fastcompany"
         />
         <Image
+          priority
           className="hidden xl:block max-w-[175px] md:max-w-[180px] lg:max-w-[233px] xl:max-w-[180px] md:scale-125 object-cover"
           width={939}
           height={100}
@@ -44,6 +49,7 @@ const Feature = () => {
         />
       </div>
       <Image
+        priority
         className="max-w-[175px] md:max-w-[180px] lg:max-w-[233px] mt-[32px] md:-mt-[35px] mx-auto md:scale-150 xl:hidden object-cover"
         width={939}
         height={100}

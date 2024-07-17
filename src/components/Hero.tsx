@@ -10,7 +10,7 @@ const Hero = () => {
 
       <div className="w-full h-full md:size-[400px] md:mx-auto xl:order-first xl:col-span-5 xl:-translate-x-10 object-cover">
         <Image
-          priority={false}
+          priority
           className="xl:scale-125"
           width={1000}
           height={1000}
